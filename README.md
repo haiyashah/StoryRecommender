@@ -4,4 +4,7 @@ look ahead in life, and how the story's character dealt with the situation and m
 
 ![image](https://github.com/haiyashah/StoryRecommender/assets/95308896/85ab2844-c8df-4ed9-8a70-ae532c93f9ea)
 
+![Uploading 321263049-85ab2844-c8df-4ed9-8a70-ae532c93f9ea.png…]()
+
+
 This is an example of how the model works.
